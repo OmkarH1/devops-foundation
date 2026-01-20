@@ -7,6 +7,7 @@ The child process call exec() to replace its memory with new program code. The k
 After execution, the process exits, and the parent shell collects the exit status using wait() and returns the prompt.
 
 2) PID vs PPID
+   
 PID - Process ID
 Its unique idnetifier of a process
 
