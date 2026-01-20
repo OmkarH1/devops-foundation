@@ -1,6 +1,6 @@
 # Zombies and Orphans (Linux Processes)
 
-This note explains **zombie** and **orphan** processes clearly for interviews and real-world debugging.
+This note explains **zombie** and **orphan** processes clearly.
 
 ---
 
