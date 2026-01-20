@@ -9,7 +9,9 @@ After execution, the process exits, and the parent shell collects the exit statu
 2) PID vs PPID
    
 PID - Process ID
+
 Its unique idnetifier of a process
 
 PPID - Parent Processs ID
+
 PID of the process that created it.
