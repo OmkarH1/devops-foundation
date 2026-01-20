@@ -207,16 +207,6 @@ Example:
 | snapshot  | System state save       |
 | swap      | Swap management         |
 
----
-
-## Interview One-Liners
-
-* **service:** Manages daemons and applications
-* **target:** Groups units and defines system state
-* **timer:** Cron replacement in systemd
-* **socket:** Starts service on demand
-
----
 
 ## Most Important for DevOps
 
